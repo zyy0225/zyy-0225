@@ -428,8 +428,5 @@ Whoever saves one life, saves the world entire.
 
 挽救了一条生命，就等于挽救了整个世界。
 
-You never know what hand you're going to get dealt next. You learn to take life as it comes at you.
 
-
-你不会知道下一手牌会是什么，要学会接受生活。
 
