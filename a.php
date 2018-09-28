@@ -2,503 +2,434 @@
 In order to be irreplaceable, one must always be different.
 
 
-Òª×öµ½²»¿ÉÌæ´ú£¬¾ÍÒªÓëÖÚ²»Í¬¡£
+è¦åšåˆ°ä¸å¯æ›¿ä»£ï¼Œå°±è¦ä¸ä¼—ä¸åŒã€‚
 
 Every day may not be good,but there's something good in every day. 
 
-²»¼ûµÃÃ¿Ìì¶¼ÊÇºÃÈÕ×Ó£¬µ«ÊÇÃ¿Ìì×Ü»áÓĞĞ©ºÃÊÂ·¢ÉúµÄ¡£
+ä¸è§å¾—æ¯å¤©éƒ½æ˜¯å¥½æ—¥å­ï¼Œä½†æ˜¯æ¯å¤©æ€»ä¼šæœ‰äº›å¥½äº‹å‘ç”Ÿçš„ã€‚
 
-Always go with the choice that scares you the most, because that¡¯s the one that is going to require the most from you.
+Always go with the choice that scares you the most, because thatâ€™s the one that is going to require the most from you.
 
-¾Í×öÄÇ¸öÈÃÄã×î²»°²µÄÊÂÇé£¬ÒòÎªËüÄÜ·¢»ÓÄã×î´óµÄÇ±ÄÜ¡£
+å°±åšé‚£ä¸ªè®©ä½ æœ€ä¸å®‰çš„äº‹æƒ…ï¼Œå› ä¸ºå®ƒèƒ½å‘æŒ¥ä½ æœ€å¤§çš„æ½œèƒ½ã€‚
 
 The future belongs to those who believe in the beauty of their dreams.
 
-Î´À´ÊôÓÚÄÇĞ©ÏàĞÅÃÎÏëÖ®ÃÀºÃµÄÈË¡£
+æœªæ¥å±äºé‚£äº›ç›¸ä¿¡æ¢¦æƒ³ä¹‹ç¾å¥½çš„äººã€‚
 
 If you wept for the missing sunset,you would miss all the shining stars.
 
-Èç¹ûÄãÎª´í¹ıÏ¦Ñô¶ø¿ŞÆü£¬ÄÇÃ´Äã¾ÍÒª´íÈºĞÇÁË¡£ 
+å¦‚æœä½ ä¸ºé”™è¿‡å¤•é˜³è€Œå“­æ³£ï¼Œé‚£ä¹ˆä½ å°±è¦é”™ç¾¤æ˜Ÿäº†ã€‚ 
 
 We should be wakening up by the pursuit of dreams instead of the sound from an alarm. 
 
-Ã¿Ìì½ĞĞÑÄãµÄ²»Ó¦¸ÃÊÇÄÖÖÓ£¬¶øÓ¦¸ÃÊÇÃÎÏë¡£
+æ¯å¤©å«é†’ä½ çš„ä¸åº”è¯¥æ˜¯é—¹é’Ÿï¼Œè€Œåº”è¯¥æ˜¯æ¢¦æƒ³ã€‚
 
 Don't worry too much about the ambiguous future, just make effort for explicit being present. 
 
-²»ÎªÄ£ºı²»ÇåµÄÎ´À´¹ı·Öµ£ÓÇ£¬Ö»ÎªÇåÇå³ş³şµÄÏÖÔÚ·Ü·¢Í¼Ç¿¡£
+ä¸ä¸ºæ¨¡ç³Šä¸æ¸…çš„æœªæ¥è¿‡åˆ†æ‹…å¿§ï¼Œåªä¸ºæ¸…æ¸…æ¥šæ¥šçš„ç°åœ¨å¥‹å‘å›¾å¼ºã€‚
 
 Time management is really a misnomer - the challenge is not to manage time, but to manage ourselves. 
 
-¡°Ê±¼ä¹ÜÀí¡±£¬ÆäÊµÊÇÒ»¸öÎó³Æ£¬ÎÒÃÇÌôÕ½µÄÊÇ¹ÜÀí×Ô¼º£¬¶ø²»ÊÇÊ±¼ä¡£
+â€œæ—¶é—´ç®¡ç†â€ï¼Œå…¶å®æ˜¯ä¸€ä¸ªè¯¯ç§°ï¼Œæˆ‘ä»¬æŒ‘æˆ˜çš„æ˜¯ç®¡ç†è‡ªå·±ï¼Œè€Œä¸æ˜¯æ—¶é—´ã€‚
 
 The moment you think about giving up, think of the reason why you held on so long. 
 
-Ã¿µ±ÄãÏë·ÅÆúµÄÊ±ºò£¬ÏëÒ»ÏëÊÇÊ²Ã´Ö§³Å×ÅÄãÒ»Â·¼á³Ö¡£
+æ¯å½“ä½ æƒ³æ”¾å¼ƒçš„æ—¶å€™ï¼Œæƒ³ä¸€æƒ³æ˜¯ä»€ä¹ˆæ”¯æ’‘ç€ä½ ä¸€è·¯åšæŒã€‚
 
 Never regret. If it's good, it's wonderful. If it's bad, it's experience.
 
-²»±ØÒÅº¶¡£ÈôÊÇÃÀºÃ£¬½Ğ×ö¾«²Ê¡£ÈôÊÇÔã¸â£¬½Ğ×ö¾­Àú¡£
+ä¸å¿…é—æ†¾ã€‚è‹¥æ˜¯ç¾å¥½ï¼Œå«åšç²¾å½©ã€‚è‹¥æ˜¯ç³Ÿç³•ï¼Œå«åšç»å†ã€‚
 
 Everybody wants happiness. No one wants pain. But how can you make a rainbow without a little rain?
 
-´ó¼Ò¶¼ÏëµÃµ½ĞÒ¸££¬È´²»Ô¸³Ğµ£Í´¿à¡£¿É²»¾­Àú·çÓê£¬ÔõÄÜ¼û²Êºç£¿ 
+å¤§å®¶éƒ½æƒ³å¾—åˆ°å¹¸ç¦ï¼Œå´ä¸æ„¿æ‰¿æ‹…ç—›è‹¦ã€‚å¯ä¸ç»å†é£é›¨ï¼Œæ€èƒ½è§å½©è™¹ï¼Ÿ 
 
 We are what we repeatedly do. Excellence, then, is not an act, but a habit. 
 
-ÖØ¸´µÄĞĞÎªÔì¾ÍÁËÎÒÃÇ£»Òò¶ø£¬×¿Ô½²»ÊÇÒ»ÖÖ¾Ù¶¯£¬¶øÊÇÒ»ÖÖÏ°¹ß¡£
+é‡å¤çš„è¡Œä¸ºé€ å°±äº†æˆ‘ä»¬ï¼›å› è€Œï¼Œå“è¶Šä¸æ˜¯ä¸€ç§ä¸¾åŠ¨ï¼Œè€Œæ˜¯ä¸€ç§ä¹ æƒ¯ã€‚
 
 Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 
-ÓÀÔ¶¶¼Òª×ö×îºÃµÄ×Ô¼º£¬¶ø²»ÊÇµÚ¶şºÃµÄ±ğÈË¡£
+æ°¸è¿œéƒ½è¦åšæœ€å¥½çš„è‡ªå·±ï¼Œè€Œä¸æ˜¯ç¬¬äºŒå¥½çš„åˆ«äººã€‚
 
 There is no elevator to success. You have to take the stairs.
 
-³É¹¦Ã»ÓĞµçÌİ£¬Ö»ÓĞÒ»²½Ò»¸ö½ÅÓ¡µÄÂ¥Ìİ¡£
+æˆåŠŸæ²¡æœ‰ç”µæ¢¯ï¼Œåªæœ‰ä¸€æ­¥ä¸€ä¸ªè„šå°çš„æ¥¼æ¢¯ã€‚
 
 Whatever is worth doing is worth doing well.
 
-ÈÎºÎÖµµÃ×öµÄÊÂ¾ÍÖµµÃ°ÑËü×öºÃ£¡
+ä»»ä½•å€¼å¾—åšçš„äº‹å°±å€¼å¾—æŠŠå®ƒåšå¥½ï¼
 
 Some people want it to happen, some wish it would happen, others make it happen.
 
-ÓĞĞ©ÈËÏë³É¹¦£¬»¹ÓĞĞ©ÈË¿ÊÍû³É¹¦£¬ÁíÓĞĞ©ÈËÍ¨¹ıÅ¬Á¦Ê¹ÃÎÏë³ÉÕæ¡£
+æœ‰äº›äººæƒ³æˆåŠŸï¼Œè¿˜æœ‰äº›äººæ¸´æœ›æˆåŠŸï¼Œå¦æœ‰äº›äººé€šè¿‡åŠªåŠ›ä½¿æ¢¦æƒ³æˆçœŸã€‚
 
 Don't ever let somebody tell you can't do something. You got a dream, you gotta protect it! 
 
-±ğÈÃ±ğÈË¸æËßÄã£¬Äã³É²»ÁË²Å£¡Èç¹ûÄãÓĞÃÎÏëµÄ»°£¬¾ÍÒªÈ¥º´ÎÀ£¡
+åˆ«è®©åˆ«äººå‘Šè¯‰ä½ ï¼Œä½ æˆä¸äº†æ‰ï¼å¦‚æœä½ æœ‰æ¢¦æƒ³çš„è¯ï¼Œå°±è¦å»æå«ï¼
 
 Things that make life easier: A parent's hug, a lover's kiss, a friend's support.
 
-ÈÃÉú»î±äÇáËÉÓĞÈıÑù¶«Î÷£º¸¸Ä¸µÄÓµ±§£¬ÁµÈËµÄÇ×ÎÇ£¬ÅóÓÑµÄÖ§³Ö¡£
+è®©ç”Ÿæ´»å˜è½»æ¾æœ‰ä¸‰æ ·ä¸œè¥¿ï¼šçˆ¶æ¯çš„æ‹¥æŠ±ï¼Œæ‹äººçš„äº²å»ï¼Œæœ‹å‹çš„æ”¯æŒã€‚
 
-If life is divided into two episodes, the first is ¡°hesitance-free¡±, while the second is ¡°regret-free¡±
+If life is divided into two episodes, the first is â€œhesitance-freeâ€, while the second is â€œregret-freeâ€
 
-Èô½«ÈËÉúÒ»·ÖÎª¶ş£¬Ç°°ë¶Î½Ğ¡°²»ÓÌÔ¥¡±£¬ºó°ë¶Î½Ğ¡°²»ºó»Ú¡±¡£
+è‹¥å°†äººç”Ÿä¸€åˆ†ä¸ºäºŒï¼Œå‰åŠæ®µå«â€œä¸çŠ¹è±«â€ï¼ŒååŠæ®µå«â€œä¸åæ‚”â€ã€‚
 
-Let us face the reality, so that we are committed to our ideal. ¡ª¡ªChe Guevara
+Let us face the reality, so that we are committed to our ideal. â€”â€”Che Guevara
 
-ÈÃÎÒÃÇÃæ¶ÔÏÖÊµ£¬ÈÃÎÒÃÇÖÒÓÚÀíÏë¡£¡ª¡ªÇĞ¡¤¸ñÍßÀ­
+è®©æˆ‘ä»¬é¢å¯¹ç°å®ï¼Œè®©æˆ‘ä»¬å¿ äºç†æƒ³ã€‚â€”â€”åˆ‡Â·æ ¼ç“¦æ‹‰
 
 When it comes to going after what you love in life, don't take NO for an answer. 
 
-µ±Äã×·ÇóÈËÉúËù°®Ê±£¬ÄãµÄ×ÖµäÀï¾Í²»¸ÃÓĞ¡°²»¿ÉÄÜ¡±Õâ¸ö´Ê¡£
+å½“ä½ è¿½æ±‚äººç”Ÿæ‰€çˆ±æ—¶ï¼Œä½ çš„å­—å…¸é‡Œå°±ä¸è¯¥æœ‰â€œä¸å¯èƒ½â€è¿™ä¸ªè¯ã€‚
 
 A good plan today is better than a perfect plan tomorrow.--Wag the Dog 
 
-½ñÌìµÄºÃ¼Æ»®Ê¤¹ıÃ÷ÌìµÄÍêÃÀ¼Æ»®¡£--¡¶Ò¡Î²¹·¡·
+ä»Šå¤©çš„å¥½è®¡åˆ’èƒœè¿‡æ˜å¤©çš„å®Œç¾è®¡åˆ’ã€‚--ã€Šæ‘‡å°¾ç‹—ã€‹
 
 Every drop you drink makes your life tastier!
 
-µãµãµÎµÎ£¬Éú»î¸üÃÀ£¡¡ª¡ªÃÀÖ­Ô´
+ç‚¹ç‚¹æ»´æ»´ï¼Œç”Ÿæ´»æ›´ç¾ï¼â€”â€”ç¾æ±æº
 
 Nobody can go back and start a new beginning, but anyone can start today and make a new ending.
 
-Ã»ÈËÄÜ»ØÍ·ÖØĞÂÀ´¹ı£¬µ«Ë­¶¼¿ÉÒÔ´ÓÏÖÔÚÆğÊéĞ´Ò»¸ö²»Í¬µÄ½á¾Ö¡£
+æ²¡äººèƒ½å›å¤´é‡æ–°æ¥è¿‡ï¼Œä½†è°éƒ½å¯ä»¥ä»ç°åœ¨èµ·ä¹¦å†™ä¸€ä¸ªä¸åŒçš„ç»“å±€ã€‚
 
 Never interrupt your enemy when he is making a mistake. --Napoleon Bonaparte
 
-µ±ÄãµÄµĞÈË·¸´íµÄÊ±ºò£¬Ç§Íò²»ÒªÈ¥´òÈÅËû¡£--ÄÃÆÆÂ×?²¨ÄÃ°Í
+å½“ä½ çš„æ•ŒäººçŠ¯é”™çš„æ—¶å€™ï¼Œåƒä¸‡ä¸è¦å»æ‰“æ‰°ä»–ã€‚--æ‹¿ç ´ä¼¦?æ³¢æ‹¿å·´
 
 Don't set your goals according to what are deemed important by others. Only you know what is best for yourself. 
 
-±ğÈËÈÏÎªÖØÒªµÄ£¬²¢²»¾ÍÊÇÄãµÄ×·Çó¡£Ö»ÓĞ×Ô¼º²ÅÖªµÀÊ²Ã´×îºÏÊÊ¡£
+åˆ«äººè®¤ä¸ºé‡è¦çš„ï¼Œå¹¶ä¸å°±æ˜¯ä½ çš„è¿½æ±‚ã€‚åªæœ‰è‡ªå·±æ‰çŸ¥é“ä»€ä¹ˆæœ€åˆé€‚ã€‚
 
 Growing in wisdom can be measured by the decrease in bitterness. 
 
-ÖÇ»ÛµÄÔö³¤¿ÉÓÃÍ´¿àµÄ¼õÉÙÀ´ºâÁ¿¡£
+æ™ºæ…§çš„å¢é•¿å¯ç”¨ç—›è‹¦çš„å‡å°‘æ¥è¡¡é‡ã€‚
 
 Where there is no struggle, there is no strength. -- Oprah Winfrey 
 
-Ã»ÓĞ·Ü¶·£¬¾ÍÃ»ÓĞÁ¦Á¿¡£¡ª¡ª°ÂÆÕÀ­?ÎÂ¸¥Èğ
+æ²¡æœ‰å¥‹æ–—ï¼Œå°±æ²¡æœ‰åŠ›é‡ã€‚â€”â€”å¥¥æ™®æ‹‰?æ¸©å¼—ç‘
 
 Smile and silence are two powerful tools. Smile is the way to solve many problems and silence is the way to avoid many problems.
 
-Î¢Ğ¦ºÍ³ÁÄ¬ÊÇÁ½°ÑÀûÆ÷£ºÎ¢Ğ¦½â¾öºÜ¶àÎÊÌâ£¬³ÁÄ¬±ÜÃâĞí¶àÎÊÌâ¡£ 
+å¾®ç¬‘å’Œæ²‰é»˜æ˜¯ä¸¤æŠŠåˆ©å™¨ï¼šå¾®ç¬‘è§£å†³å¾ˆå¤šé—®é¢˜ï¼Œæ²‰é»˜é¿å…è®¸å¤šé—®é¢˜ã€‚ 
 
 Life is like riding a bicycle. To keep your balance you must keep moving.
 
-Éú»î¾ÍÏñÆïµ¥³µ£¬Ö»ÓĞ²»¶ÏÇ°½ø£¬²ÅÄÜ±£³ÖÆ½ºâ¡£
+ç”Ÿæ´»å°±åƒéª‘å•è½¦ï¼Œåªæœ‰ä¸æ–­å‰è¿›ï¼Œæ‰èƒ½ä¿æŒå¹³è¡¡ã€‚
 
 Instead of complaining that the rosebush is full of thorns, be happy that the thorn bush has roses. 
 
-ÓëÆä±§Ô¹Ãµ¹å´Ô³¤ÂúÁË´Ì£¬»¹²»Èç¸Ğ¼¤´Ì´ÔÀï¾¹Éú³öÁËÃµ¹å¡£
+ä¸å…¶æŠ±æ€¨ç«ç‘°ä¸›é•¿æ»¡äº†åˆºï¼Œè¿˜ä¸å¦‚æ„Ÿæ¿€åˆºä¸›é‡Œç«Ÿç”Ÿå‡ºäº†ç«ç‘°ã€‚
 
 Action may not always bring happiness, but there is no happiness without action. 
 
-ĞĞ¶¯²»Ò»¶¨´øÀ´ĞÒ¸££¬²»ĞĞ¶¯¾Í¿Ï¶¨Ã»ÓĞĞÒ¸£¡£
+è¡ŒåŠ¨ä¸ä¸€å®šå¸¦æ¥å¹¸ç¦ï¼Œä¸è¡ŒåŠ¨å°±è‚¯å®šæ²¡æœ‰å¹¸ç¦ã€‚
 
 I find that the harder I work, the more luck I seem to have. 
 
-ÎÒ·¢ÏÖ£¬ÎÒÔ½ÊÇÅ¬Á¦£¬¾ÍÔ½·¢ĞÒÔË¡£¡ª¡ªÍĞÂíË¹¡¤½Üì³Ñ· 
+æˆ‘å‘ç°ï¼Œæˆ‘è¶Šæ˜¯åŠªåŠ›ï¼Œå°±è¶Šå‘å¹¸è¿ã€‚â€”â€”æ‰˜é©¬æ–¯Â·æ°æ–é€Š 
 
 Don't make promises when you're joyful. Don't reply when you're sad. Don't make decisions when you're angry. 
 
-±ğÔÚÏ²ÔÃÊ±³ĞÅµ£¬±ğÔÚ±¯ÉËÊ±»Ø´ğ£¬±ğÔÚ·ßÅ­Ê±¾ö¶¨¡£
+åˆ«åœ¨å–œæ‚¦æ—¶æ‰¿è¯ºï¼Œåˆ«åœ¨æ‚²ä¼¤æ—¶å›ç­”ï¼Œåˆ«åœ¨æ„¤æ€’æ—¶å†³å®šã€‚
 
 The happiest people are not those who have the best of everything, but who make the best out of everything. 
 
-×îĞÒ¸£µÄÈË²»ÊÇÓµÓĞ×îºÃÒ»ÇĞµÄÈË£¬¶øÊÇ°ÑÒ»ÇĞ¶¼±ä³É×îºÃµÄÈË¡£
+æœ€å¹¸ç¦çš„äººä¸æ˜¯æ‹¥æœ‰æœ€å¥½ä¸€åˆ‡çš„äººï¼Œè€Œæ˜¯æŠŠä¸€åˆ‡éƒ½å˜æˆæœ€å¥½çš„äººã€‚
 
 The life's battle is never won by the fastest or the strongest, but by the man who thinks he can.
 
-ÈËÉúÖ®Õ½µÄÊ¤Àû²¢²»È¡¾öÓÚ×î¿ì»ò×îÇ¿£¬¶øÊÇÄãÈÏÎª×Ô¼ºÄÜ²»ÄÜ¡£
+äººç”Ÿä¹‹æˆ˜çš„èƒœåˆ©å¹¶ä¸å–å†³äºæœ€å¿«æˆ–æœ€å¼ºï¼Œè€Œæ˜¯ä½ è®¤ä¸ºè‡ªå·±èƒ½ä¸èƒ½ã€‚
 
-Do not say that opportunities never come. It did come but you just weren¡¯t willing to give up what you had.
+Do not say that opportunities never come. It did come but you just werenâ€™t willing to give up what you had.
 
-²»ÒªËµ»ú»á´ÓÎ´³öÏÖ£»ËüÔø¾­À´¹ı£¬Ö»ÊÇÄãÉá²»µÃ·ÅÏÂÒÑÓµÓĞµÄ¡£
+ä¸è¦è¯´æœºä¼šä»æœªå‡ºç°ï¼›å®ƒæ›¾ç»æ¥è¿‡ï¼Œåªæ˜¯ä½ èˆä¸å¾—æ”¾ä¸‹å·²æ‹¥æœ‰çš„ã€‚
 
 Face the past with the least regrets, face the present with the least waste and face the future with the most dreams.
 
-²»»ÚºŞ¹ıÈ¥£»²»»Ä·ÏÏÖÔÚ£»³äÂúÃÎÏë£¬Ãæ¶ÔÎ´À´¡£
+ä¸æ‚”æ¨è¿‡å»ï¼›ä¸è’åºŸç°åœ¨ï¼›å……æ»¡æ¢¦æƒ³ï¼Œé¢å¯¹æœªæ¥ã€‚
 
 Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi
 
-ÈçÍ¬Ã÷ÈÕ½«ËÀÄÇÑùÉú»î£¬ÈçÍ¬ÓÀÔ¶²»ËÀÄÇÑùÇóÖª¡£¡ª¡ªÊ¥ĞÛ¸ÊµØ
+å¦‚åŒæ˜æ—¥å°†æ­»é‚£æ ·ç”Ÿæ´»ï¼Œå¦‚åŒæ°¸è¿œä¸æ­»é‚£æ ·æ±‚çŸ¥ã€‚â€”â€”åœ£é›„ç”˜åœ°
 
 Success is simple. Do what's right, the right way, at the right time. 
 
-³É¹¦ºÜ¼òµ¥£ºÔÚºÏÊÊµÄÊ±¼äÓÃÇ¡µ±µÄ·½Ê½×öÕıÈ·µÄÊÂ¡£
+æˆåŠŸå¾ˆç®€å•ï¼šåœ¨åˆé€‚çš„æ—¶é—´ç”¨æ°å½“çš„æ–¹å¼åšæ­£ç¡®çš„äº‹ã€‚
 
 Nobody is bored when he is trying to make something that is beautiful or to discover something that is true.
 
-³¢ÊÔÈ¥×öÒ»Ğ©ÃÀºÃµÄÊÂ»òÕßÈ¥·¢ÏÖÕæÀíÊ±£¬Ã»ÓĞÈË»á¸Ğµ½·³ÃÆ¡£
+å°è¯•å»åšä¸€äº›ç¾å¥½çš„äº‹æˆ–è€…å»å‘ç°çœŸç†æ—¶ï¼Œæ²¡æœ‰äººä¼šæ„Ÿåˆ°çƒ¦é—·ã€‚
 
 Reading makes a full man, conference a ready man and writing an exact man.
 
-¶ÁÊéÊ¹ÈË³äÊµ£¬ÌÖÂÛÊ¹ÈË»úÃô£¬Ğ´×÷Ê¹ÈËÑÏ½÷¡£
+è¯»ä¹¦ä½¿äººå……å®ï¼Œè®¨è®ºä½¿äººæœºæ•ï¼Œå†™ä½œä½¿äººä¸¥è°¨ã€‚
 
 Sloth, like rust, consumes faster than labor wears.
 
-ÀÁ¶èÏñÉúĞâÒ»Ñù£¬±È²ÙÀÍ¸üÄÜÏûºÄÉíÌå¡£
+æ‡’æƒ°åƒç”Ÿé”ˆä¸€æ ·ï¼Œæ¯”æ“åŠ³æ›´èƒ½æ¶ˆè€—èº«ä½“ã€‚
 
 Yesterday is history. Tomorrow is mystery. But today is a gift.
 
-×òÈÕÒÑÊÅ£¬Ã÷ÌìÉĞÔ¶£¬½ñÌì²ÅÊÇÀÏÌì´ÍÓèµÄÀñÎï¡£ 
+æ˜¨æ—¥å·²é€ï¼Œæ˜å¤©å°šè¿œï¼Œä»Šå¤©æ‰æ˜¯è€å¤©èµäºˆçš„ç¤¼ç‰©ã€‚ 
 
 Success is the sum of small efforts, repeated day in and day out.
 
-³É¹¦¾ÍÊÇÈÕ¸´Ò»ÈÕÄÇÒ»µãµãĞ¡Ğ¡Å¬Á¦µÄ»ıÀÛ¡£ 
+æˆåŠŸå°±æ˜¯æ—¥å¤ä¸€æ—¥é‚£ä¸€ç‚¹ç‚¹å°å°åŠªåŠ›çš„ç§¯ç´¯ã€‚ 
 
 A year from now, you will wish you had started today.
 
-Ã÷Äê½ñÈÕ£¬Äã»áÏ£Íû´ËÊ±´Ë¿Ì×Ô¼ºÒÑ¾­ĞĞ¶¯ÁË¡£
+æ˜å¹´ä»Šæ—¥ï¼Œä½ ä¼šå¸Œæœ›æ­¤æ—¶æ­¤åˆ»è‡ªå·±å·²ç»è¡ŒåŠ¨äº†ã€‚
 
 Sometimes you have to stop thinking too much and just go where your heart takes you.
 
-ÓĞÊ±ºò£¬ÎÒÃÇ²»ÒªÏëÌ«¶à£¬Ë³×Å×Ô¼ºµÄĞÄÒâ¾ÍºÃÁË¡£
+æœ‰æ—¶å€™ï¼Œæˆ‘ä»¬ä¸è¦æƒ³å¤ªå¤šï¼Œé¡ºç€è‡ªå·±çš„å¿ƒæ„å°±å¥½äº†ã€‚
 
 It is our choices that show what we truly are, far more than our abilities.
 
-¾ö¶¨ÎÒÃÇÒ»ÉúµÄ£¬²»ÊÇÎÒÃÇµÄÄÜÁ¦£¬¶øÊÇÎÒÃÇµÄÑ¡Ôñ¡£
+å†³å®šæˆ‘ä»¬ä¸€ç”Ÿçš„ï¼Œä¸æ˜¯æˆ‘ä»¬çš„èƒ½åŠ›ï¼Œè€Œæ˜¯æˆ‘ä»¬çš„é€‰æ‹©ã€‚
 
 Some birds are not meant to be caged; their feathers are just too bright. 
 
-ÓĞĞ©Äñ¶ùÊÇ×¢¶¨²»»á±»¹ØÔÚÀÎÁıÀï£¬ËüÃÇµÄÃ¿Ò»Æ¬ÓğÃ«¶¼ÉÁÒ«×Å¹â»Ô¡£
+æœ‰äº›é¸Ÿå„¿æ˜¯æ³¨å®šä¸ä¼šè¢«å…³åœ¨ç‰¢ç¬¼é‡Œï¼Œå®ƒä»¬çš„æ¯ä¸€ç‰‡ç¾½æ¯›éƒ½é—ªè€€ç€å…‰è¾‰ã€‚
 
 Dreaming in the memory is not as good as waiting for the paradise in the hell.
 
-ÔÚ»ØÒäÀï¼ÌĞøÃÎ»Ã²»ÈçÔÚµØÓüÀïµÈ´ıÌìÌÃ¡£
+åœ¨å›å¿†é‡Œç»§ç»­æ¢¦å¹»ä¸å¦‚åœ¨åœ°ç‹±é‡Œç­‰å¾…å¤©å ‚ã€‚
 
 The turning point in the process of growing up is when you discover the core of strength within you that survives all hurt.
 
-µ±Äã´ÓÄÚĞÄÉî´¦ÕÒµ½Ò»ÖÖ¿ÉÒÔÈÌÊÜÒ»ÇĞÍ´¿àµÄ¼áÇ¿Á¦Á¿Ê±£¬ÄãµÄ³É³¤Àú³Ì¾Í»á³öÏÖ·ÉÔ¾¡£
+å½“ä½ ä»å†…å¿ƒæ·±å¤„æ‰¾åˆ°ä¸€ç§å¯ä»¥å¿å—ä¸€åˆ‡ç—›è‹¦çš„åšå¼ºåŠ›é‡æ—¶ï¼Œä½ çš„æˆé•¿å†ç¨‹å°±ä¼šå‡ºç°é£è·ƒã€‚
 
 Sometimes you gotta shut up, swallow your pride and accept that you're wrong. It's not giving up. It's called growing up.
 
-ÓĞÊ±ºò£¬ÄãĞèÒª×öµÄ¾ÍÊÇ±Õ×ì£¬·ÅÏÂËùÎ½µÄ×Ô×ğ£¬³ĞÈÏ×Ô¼ºµÄ´íÎó¡£Õâ²»½Ğ·ÅÆú£¬¶ø½Ğ³É³¤¡£
+æœ‰æ—¶å€™ï¼Œä½ éœ€è¦åšçš„å°±æ˜¯é—­å˜´ï¼Œæ”¾ä¸‹æ‰€è°“çš„è‡ªå°Šï¼Œæ‰¿è®¤è‡ªå·±çš„é”™è¯¯ã€‚è¿™ä¸å«æ”¾å¼ƒï¼Œè€Œå«æˆé•¿ã€‚
 
 I'll be alright. One day. Someday. Just not today.
 
-ÎÒ»áºÃÆğÀ´µÄ¡£×ÜÓĞÒ»Ìì£¬Ä³Ò»Ìì¡£Ö»ÊÇ²»ÊÇ½ñÌì¡£
+æˆ‘ä¼šå¥½èµ·æ¥çš„ã€‚æ€»æœ‰ä¸€å¤©ï¼ŒæŸä¸€å¤©ã€‚åªæ˜¯ä¸æ˜¯ä»Šå¤©ã€‚
 
-Promise yourself to be so strong that nothing can disturb your peace of mind£®
+Promise yourself to be so strong that nothing can disturb your peace of mindï¼
 
-¶Ô×Ô¼º³ĞÅµ£ºÎÒÒªÇ¿´óµ½ÈÎºÎÊÂÇé¶¼ÎŞ·¨ÆÆ»µÎÒÄÚĞÄµÄÆ½ºÍ¡£
+å¯¹è‡ªå·±æ‰¿è¯ºï¼šæˆ‘è¦å¼ºå¤§åˆ°ä»»ä½•äº‹æƒ…éƒ½æ— æ³•ç ´åæˆ‘å†…å¿ƒçš„å¹³å’Œã€‚
 
 Sometimes you gotta shut up, swallow your pride and accept that you're wrong. It's not giving up. It's called growing up.
 
-ÓĞÊ±ºò£¬ÄãĞèÒª×öµÄ¾ÍÊÇ±Õ×ì£¬·ÅÏÂËùÎ½µÄ×Ô×ğ£¬³ĞÈÏ×Ô¼ºµÄ´íÎó¡£Õâ²»½Ğ·ÅÆú£¬¶ø½Ğ³É³¤¡£
+æœ‰æ—¶å€™ï¼Œä½ éœ€è¦åšçš„å°±æ˜¯é—­å˜´ï¼Œæ”¾ä¸‹æ‰€è°“çš„è‡ªå°Šï¼Œæ‰¿è®¤è‡ªå·±çš„é”™è¯¯ã€‚è¿™ä¸å«æ”¾å¼ƒï¼Œè€Œå«æˆé•¿ã€‚
 
 I always in the deepest despair, meet the most beautiful surprise.
 
-ÎÒ×ÜÔÚ×îÉîµÄ¾øÍûÀï£¬Óö¼û×îÃÀÀöµÄ¾ªÏ²¡£
+æˆ‘æ€»åœ¨æœ€æ·±çš„ç»æœ›é‡Œï¼Œé‡è§æœ€ç¾ä¸½çš„æƒŠå–œã€‚
 
 Meeting you was fate, becoming your friend was a choice, but falling in love with you was beyond my control.
 
-Óö¼ûÄãÊÇÃüÔËµÄ°²ÅÅ£¬³ÉÎªÁËÅóÓÑÊÇÎÒµÄÑ¡Ôñ£¬¶ø°®ÉÏÄãÊÇÎÒÎŞ·¨¿ØÖÆµÄÒâÍâ¡£
+é‡è§ä½ æ˜¯å‘½è¿çš„å®‰æ’ï¼Œæˆä¸ºäº†æœ‹å‹æ˜¯æˆ‘çš„é€‰æ‹©ï¼Œè€Œçˆ±ä¸Šä½ æ˜¯æˆ‘æ— æ³•æ§åˆ¶çš„æ„å¤–ã€‚
 
 From now on, I will expect nothing, and just take what I get.
 
-´ÓÏÖÔÚÆğ£¬ÎÒ½«²»ÔÙÆÚ´ı£¬Ö»ÕäÏ§ÎÒËùÓµÓĞµÄ¡£
+ä»ç°åœ¨èµ·ï¼Œæˆ‘å°†ä¸å†æœŸå¾…ï¼Œåªçæƒœæˆ‘æ‰€æ‹¥æœ‰çš„ã€‚
 
 Silence is the best answer for all questions. Smiling is the best reaction in all situations.
 
-³ÁÄ¬ÊÇÓ¦¶ÔËùÓĞÎÊÌâµÄ×î¼Ñ´ğ°¸£¬Î¢Ğ¦ÊÇÔÚËùÓĞÇé¿öÏÂµÄ×î¼Ñ·´Ó¦¡£
+æ²‰é»˜æ˜¯åº”å¯¹æ‰€æœ‰é—®é¢˜çš„æœ€ä½³ç­”æ¡ˆï¼Œå¾®ç¬‘æ˜¯åœ¨æ‰€æœ‰æƒ…å†µä¸‹çš„æœ€ä½³ååº”ã€‚
 
 No one can change a person. But someone can be a reason for a person to change.
 
-Ã»ÓĞÈËÄÜ¸Ä±äÁíÍâÒ»¸öÈË£¬µ«ÊÇÈ´¿ÉÄÜ³ÉÎªËû¸Ä±äµÄÔ­Òò¡£
+æ²¡æœ‰äººèƒ½æ”¹å˜å¦å¤–ä¸€ä¸ªäººï¼Œä½†æ˜¯å´å¯èƒ½æˆä¸ºä»–æ”¹å˜çš„åŸå› ã€‚
 
 When we were small, happiness was a simple thing. After we have grown up, simplicity is a very happy thing.
 
-Ğ¡Ê±ºò£¬ĞÒ¸£ÊÇ¼şºÜ¼òµ¥µÄÊÂ£»³¤´óºó£¬¼òµ¥ÊÇ¼şºÜĞÒ¸£µÄÊÂ¡£
+å°æ—¶å€™ï¼Œå¹¸ç¦æ˜¯ä»¶å¾ˆç®€å•çš„äº‹ï¼›é•¿å¤§åï¼Œç®€å•æ˜¯ä»¶å¾ˆå¹¸ç¦çš„äº‹ã€‚
 
 I'm so young that everything sad or happy seems very impressive to me. A gentle touch could be a big deal.
 
-Ö»ÊÇÒòÎªÌ«ÄêÇá£¬ËùÒÔËùÓĞµÄ±¯ÉËºÍ¿ìÀÖ¶¼ÏÔµÃÄÇÃ´Éî¿Ì£¬ÇáÇáÒ»Åö¾Í¾ªÌì¶¯
+åªæ˜¯å› ä¸ºå¤ªå¹´è½»ï¼Œæ‰€ä»¥æ‰€æœ‰çš„æ‚²ä¼¤å’Œå¿«ä¹éƒ½æ˜¾å¾—é‚£ä¹ˆæ·±åˆ»ï¼Œè½»è½»ä¸€ç¢°å°±æƒŠå¤©åŠ¨
 
-Being nice to someone you dislike doesn¡¯t mean you¡¯re a fake. It means you¡¯re mature enough to tolerate your dislike towards them.
+Being nice to someone you dislike doesnâ€™t mean youâ€™re a fake. It means youâ€™re mature enough to tolerate your dislike towards them.
 
-ÄÜ¹»ÉÆ´ı²»Ì«Ï²»¶µÄÈË£¬²¢²»´ú±íÄãĞéÎ±£¬¶øÒâÎ¶×ÅÄãÄÚĞÄ³ÉÊìµ½¿ÉÒÔÈİÄÉÕâĞ©²»Ï²»¶¡£
+èƒ½å¤Ÿå–„å¾…ä¸å¤ªå–œæ¬¢çš„äººï¼Œå¹¶ä¸ä»£è¡¨ä½ è™šä¼ªï¼Œè€Œæ„å‘³ç€ä½ å†…å¿ƒæˆç†Ÿåˆ°å¯ä»¥å®¹çº³è¿™äº›ä¸å–œæ¬¢ã€‚
 
-I am a great believer in luck, and I find that the harder I work, the more I have of it. ¡ª Thomas Jefferson
+I am a great believer in luck, and I find that the harder I work, the more I have of it. â€” Thomas Jefferson
 
-ÎÒ·Ç³£ÏàĞÅÔËÆø£¬ÎÒ·¢ÏÖÎÒÔ½Å¬Á¦¹¤×÷£¬ÎÒµÄÔËÆø¾ÍÔ½ºÃ¡£¡ª¡ª ÍĞÂíË¹?½Ü¸¥Ñ·
+æˆ‘éå¸¸ç›¸ä¿¡è¿æ°”ï¼Œæˆ‘å‘ç°æˆ‘è¶ŠåŠªåŠ›å·¥ä½œï¼Œæˆ‘çš„è¿æ°”å°±è¶Šå¥½ã€‚â€”â€” æ‰˜é©¬æ–¯?æ°å¼—é€Š
 
 No one can go with you for a lifetime, so you have to adjust yourself to be alone; no one will help you again and again, so you have to fight all the time.
 
-Ã»ÓĞÈËÅãÄã×ßÒ»±²×Ó£¬ËùÒÔÄãÒªÊÊÓ¦¹Â¶À£»Ã»ÓĞÈË»á°ïÄãÒ»±²×Ó£¬ËùÒÔÄãÒªÒ»Ö±·Ü¶·¡£
+æ²¡æœ‰äººé™ªä½ èµ°ä¸€è¾ˆå­ï¼Œæ‰€ä»¥ä½ è¦é€‚åº”å­¤ç‹¬ï¼›æ²¡æœ‰äººä¼šå¸®ä½ ä¸€è¾ˆå­ï¼Œæ‰€ä»¥ä½ è¦ä¸€ç›´å¥‹æ–—ã€‚
 
 Getting angry is punishing oneself for mistakes of others. Forgive others, and relieve yourself.
 
-ÉúÆø£¬¾ÍÊÇÄÃ±ğÈËµÄ¹ı´íÀ´³Í·£×Ô¼º¡£Ô­ÁÂ±ğÈË£¬·Å¹ı×Ô¼º¡£
+ç”Ÿæ°”ï¼Œå°±æ˜¯æ‹¿åˆ«äººçš„è¿‡é”™æ¥æƒ©ç½šè‡ªå·±ã€‚åŸè°…åˆ«äººï¼Œæ”¾è¿‡è‡ªå·±ã€‚
 
 Whatever is worth doing is worth doing well.
 
-ÈÎºÎÖµµÃ×öµÄÊÂ¾ÍÖµµÃ°ÑËü×öºÃ£¡
+ä»»ä½•å€¼å¾—åšçš„äº‹å°±å€¼å¾—æŠŠå®ƒåšå¥½ï¼
 
 Trust is like a piece of paper. When it creases, it cannot recover even it is smoothed.
 
-ĞÅÈÎ¾ÍÏñÒ»ÕÅÖ½£¬ÖåÁË£¬¼´Ê¹¸§Æ½£¬Ò²»Ö¸´²»ÁËÔ­ÑùÁË¡£
+ä¿¡ä»»å°±åƒä¸€å¼ çº¸ï¼Œçš±äº†ï¼Œå³ä½¿æŠšå¹³ï¼Œä¹Ÿæ¢å¤ä¸äº†åŸæ ·äº†ã€‚
 
 Whatever with the past has gone, the best is always yet to come.
 
-²»¹Ü¹ıÈ¥ÈçºÎ£¬¹ıÈ¥µÄÒÑ¾­¹ıÈ¥£¬×îºÃµÄ×ÜÔÚÎ´À´µÈ×ÅÄã¡£
+ä¸ç®¡è¿‡å»å¦‚ä½•ï¼Œè¿‡å»çš„å·²ç»è¿‡å»ï¼Œæœ€å¥½çš„æ€»åœ¨æœªæ¥ç­‰ç€ä½ ã€‚
 
 No matter how long the rain lasts, there will be a rainbow in the end. No matter how sad you may be, believe that happiness is waiting.
 
-ÎŞÂÛÏÂ¶à¾ÃµÄÓê£¬×îºó¶¼»áÓĞ²Êºç£»ÎŞÂÛÄã¶àÃ´±¯ÉË£¬ÒªÏàĞÅĞÒ¸£ÔÚÇ°·½µÈºò¡£
+æ— è®ºä¸‹å¤šä¹…çš„é›¨ï¼Œæœ€åéƒ½ä¼šæœ‰å½©è™¹ï¼›æ— è®ºä½ å¤šä¹ˆæ‚²ä¼¤ï¼Œè¦ç›¸ä¿¡å¹¸ç¦åœ¨å‰æ–¹ç­‰å€™ã€‚
 
 It's true that we don't know what we've got until we lose it, but it's also true that we don't know what we've been missing until it arrives.
 
-µÄÈ·Ö»ÓĞµ±ÎÒÃÇÊ§È¥Ê±²ÅÖªµÀÔøÓµÓĞµÄÊÇÊ²Ã´£¬Í¬Ñù£¬Ö»ÓĞµ±ÎÒÃÇÓµÓĞÁË²ÅÖªµÀÔø¾­Ê§È¥ÁËÊ²Ã´¡£
+çš„ç¡®åªæœ‰å½“æˆ‘ä»¬å¤±å»æ—¶æ‰çŸ¥é“æ›¾æ‹¥æœ‰çš„æ˜¯ä»€ä¹ˆï¼ŒåŒæ ·ï¼Œåªæœ‰å½“æˆ‘ä»¬æ‹¥æœ‰äº†æ‰çŸ¥é“æ›¾ç»å¤±å»äº†ä»€ä¹ˆã€‚
 
 Happiness isn't getting all you want. It's enjoying all you have. 
 
-ĞÒ¸£²»ÊÇµÃµ½ÄãÏëÒªµÄÒ»ÇĞ£¬¶øÊÇÏíÊÜÄãËùÓµÓĞµÄÒ»ÇĞ¡£
+å¹¸ç¦ä¸æ˜¯å¾—åˆ°ä½ æƒ³è¦çš„ä¸€åˆ‡ï¼Œè€Œæ˜¯äº«å—ä½ æ‰€æ‹¥æœ‰çš„ä¸€åˆ‡ã€‚
 
 We will all have times of insecurity in life, when there is nothing to do but bravely face the feelings of doubt.
 
-ÉúÃüÖĞ×ÜÓĞÄÇÃ´Ò»¶ÎÊ±¹â£¬³äÂú²»°²£¬¿ÉÊÇ³ıÁËÓÂ¸ÒÃæ¶Ô£¬ÎÒÃÇ±ğÎŞÑ¡Ôñ¡£
+ç”Ÿå‘½ä¸­æ€»æœ‰é‚£ä¹ˆä¸€æ®µæ—¶å…‰ï¼Œå……æ»¡ä¸å®‰ï¼Œå¯æ˜¯é™¤äº†å‹‡æ•¢é¢å¯¹ï¼Œæˆ‘ä»¬åˆ«æ— é€‰æ‹©ã€‚
 
 Friends are like four-leaf clovers. Hard to find, and lucky to have!
 
-ÅóÓÑ¾ÍÏñËÄÒ¶²İ¡£Ñ°ÕÒ²»Ò×£¬ÄÜÓµÓĞ¾ÍÊÇĞÒÔË£¡
+æœ‹å‹å°±åƒå››å¶è‰ã€‚å¯»æ‰¾ä¸æ˜“ï¼Œèƒ½æ‹¥æœ‰å°±æ˜¯å¹¸è¿ï¼
 
 It's never too late to be the person you want to be.
 
-³ÉÎª×Ô¼ºÏë³ÉÎªµÄÈË£¬ÓÀÔ¶²»»áÌ«³Ù¡£
+æˆä¸ºè‡ªå·±æƒ³æˆä¸ºçš„äººï¼Œæ°¸è¿œä¸ä¼šå¤ªè¿Ÿã€‚
 
 Everyone's got a life that no one else knows about.
 
-¸÷×ÔÈËÉú£¬ÀäÅ¯×ÔÖª¡£
+å„è‡ªäººç”Ÿï¼Œå†·æš–è‡ªçŸ¥ã€‚
 
 Love is composed of a single soul inhabiting two bodies.
 
-°®ÊÇÆÜÏ¢ÔÚÁ½¸öÇûÌåÀïµÄÒ»¸öÁé»ê¡£
+çˆ±æ˜¯æ –æ¯åœ¨ä¸¤ä¸ªèº¯ä½“é‡Œçš„ä¸€ä¸ªçµé­‚ã€‚
 
 Character is what you know you are, not what others think you have.
 
-ĞÔ¸ñÊÇÄãËùÁË½âµÄ×Ô¼º£¬¶ø²»ÊÇ±ğÈËÑÛÖĞµÄÄã¡£
+æ€§æ ¼æ˜¯ä½ æ‰€äº†è§£çš„è‡ªå·±ï¼Œè€Œä¸æ˜¯åˆ«äººçœ¼ä¸­çš„ä½ ã€‚
 
 If you can't make a mistake, you can't make anything.
 
-Èç¹ûÄãÁ¬·¸´í¶¼²»»á£¬ÄÇÃ´ÄãÊ²Ã´Ò²Ñ§²»»á¡£
+å¦‚æœä½ è¿çŠ¯é”™éƒ½ä¸ä¼šï¼Œé‚£ä¹ˆä½ ä»€ä¹ˆä¹Ÿå­¦ä¸ä¼šã€‚
 
-They say at the end of your life, you regret the stuff you didn't do more than the stuff that you did. ¡ªThe Big Bang Theory
+They say at the end of your life, you regret the stuff you didn't do more than the stuff that you did. â€”The Big Bang Theory
 
-±ğÈË¶¼Ëµ£¬ÈËµ½ÁËÄºÄê£¬±ÈÆğ×Ô¼º¸É¹ıµÄÊÂ£¬»á¸üºó»ÚÃ»ÓĞ¸É¹ıÒ»Ğ©ÊÂÇé¡£¡ª¡¶Éú»î´ó±¬Õ¨¡·
+åˆ«äººéƒ½è¯´ï¼Œäººåˆ°äº†æš®å¹´ï¼Œæ¯”èµ·è‡ªå·±å¹²è¿‡çš„äº‹ï¼Œä¼šæ›´åæ‚”æ²¡æœ‰å¹²è¿‡ä¸€äº›äº‹æƒ…ã€‚â€”ã€Šç”Ÿæ´»å¤§çˆ†ç‚¸ã€‹
 
-For anything worth having one must pay the price; and the price is always work, patience, love, self-sacrifice.¡ªJohn Burroughs
+For anything worth having one must pay the price; and the price is always work, patience, love, self-sacrifice.â€”John Burroughs
 
-ÈÎºÎÖµµÃÓµÓĞµÄ¶«Î÷¶¼ÊÇĞèÒª¸¶³ö´ú¼ÛµÄ£¬ÄÇ¾ÍÊÇÅ¬Á¦¡¢ÄÍĞÄ¡¢°®ĞÄÒÔ¼°×ÔÎÒÎşÉü¡£¡ªÔ¼º²?°ÍÀÕË¹
+ä»»ä½•å€¼å¾—æ‹¥æœ‰çš„ä¸œè¥¿éƒ½æ˜¯éœ€è¦ä»˜å‡ºä»£ä»·çš„ï¼Œé‚£å°±æ˜¯åŠªåŠ›ã€è€å¿ƒã€çˆ±å¿ƒä»¥åŠè‡ªæˆ‘ç‰ºç‰²ã€‚â€”çº¦ç¿°?å·´å‹’æ–¯
 
-In one minute you can change your attitude and in that minute you can change your entire day. ¡ªSpenser
+In one minute you can change your attitude and in that minute you can change your entire day. â€”Spenser
 
-¸Ä±äĞÄÌ¬Ö»ĞèÒ»·ÖÖÓ£¬¶øÕâÒ»·ÖÖÓÈ´ÄÜ¸Ä±äÒ»ÕûÌì¡£¡ªË¹±öÈû
+æ”¹å˜å¿ƒæ€åªéœ€ä¸€åˆ†é’Ÿï¼Œè€Œè¿™ä¸€åˆ†é’Ÿå´èƒ½æ”¹å˜ä¸€æ•´å¤©ã€‚â€”æ–¯å®¾å¡
 
 Human felicity is produced not so much by great pieces of good fortune that seldom happen, as by little advantages that occur every day.
 
-ÓëÆäËµÈËÀàµÄĞÒ¸£À´×ÔÅ¼¶û·¢ÉúµÄºèÔË£¬²»ÈçËµÀ´×ÔÃ¿Ìì¶¼ÓĞµÄĞ¡Êµ»İ¡£¡ª¸»À¼¿ËÁÖ
+ä¸å…¶è¯´äººç±»çš„å¹¸ç¦æ¥è‡ªå¶å°”å‘ç”Ÿçš„é¸¿è¿ï¼Œä¸å¦‚è¯´æ¥è‡ªæ¯å¤©éƒ½æœ‰çš„å°å®æƒ ã€‚â€”å¯Œå…°å…‹æ—
 
 Don't be afraid of change, you may lose out on something good, but you might gain something even better.
 
-²»Òªº¦ÅÂ¸Ä±ä£¬¾¡¹ÜÄã¿ÉÄÜ»áÒò´ËÊ§È¥Ò»Ğ©ºÃµÄ¶«Î÷£¬µ«ÄãÒ²¿ÉÄÜ»áµÃµ½Ò»Ğ©¸üºÃµÄ¶«Î÷¡£
+ä¸è¦å®³æ€•æ”¹å˜ï¼Œå°½ç®¡ä½ å¯èƒ½ä¼šå› æ­¤å¤±å»ä¸€äº›å¥½çš„ä¸œè¥¿ï¼Œä½†ä½ ä¹Ÿå¯èƒ½ä¼šå¾—åˆ°ä¸€äº›æ›´å¥½çš„ä¸œè¥¿ã€‚
 
 The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself.
 
-Ã÷°×ÊÂÀíµÄÈËÊ¹×Ô¼ºÊÊÓ¦ÊÀ½ç£¬²»Ã÷ÊÂÀíµÄÈËÏëÊ¹ÊÀ½çÊÊÓ¦×Ô¼º¡£
+æ˜ç™½äº‹ç†çš„äººä½¿è‡ªå·±é€‚åº”ä¸–ç•Œï¼Œä¸æ˜äº‹ç†çš„äººæƒ³ä½¿ä¸–ç•Œé€‚åº”è‡ªå·±ã€‚
 
-Success is not an event. It¡¯s a journey.
+Success is not an event. Itâ€™s a journey.
 
-³É¹¦²»ÊÇÒ»¸ö½á¹û£¬¶øÊÇÒ»¸ö¹ı³Ì¡£
+æˆåŠŸä¸æ˜¯ä¸€ä¸ªç»“æœï¼Œè€Œæ˜¯ä¸€ä¸ªè¿‡ç¨‹ã€‚
 
 You make millions of decisions that mean nothing and then one day your order takes out and it changes your life. 
 
-ÄãÃ¿Ìì¶¼ÔÚ×öºÜ¶à¿´ÆğÀ´ºÁÎŞÒâÒåµÄ¾ö¶¨£¬µ«Ä³ÌìÄãµÄÄ³¸ö¾ö¶¨¾ÍÄÜ¸Ä±äÄãµÄÒ»Éú¡£¡ª¡¶Î÷ÑÅÍ¼²»ÃßÒ¹¡·
+ä½ æ¯å¤©éƒ½åœ¨åšå¾ˆå¤šçœ‹èµ·æ¥æ¯«æ— æ„ä¹‰çš„å†³å®šï¼Œä½†æŸå¤©ä½ çš„æŸä¸ªå†³å®šå°±èƒ½æ”¹å˜ä½ çš„ä¸€ç”Ÿã€‚â€”ã€Šè¥¿é›…å›¾ä¸çœ å¤œã€‹
 
 Do not be picky in the social intercourse. Try to make friends with all kinds of people.
 
-½»¼Ê²»ÒªÌô·Ê¼ğÊİ£¬Ó¦¸ÃºÍ¸÷ÖÖ¸÷ÑùµÄÈË´ò³ÉÒ»Æ¬¡£
+äº¤é™…ä¸è¦æŒ‘è‚¥æ‹£ç˜¦ï¼Œåº”è¯¥å’Œå„ç§å„æ ·çš„äººæ‰“æˆä¸€ç‰‡ã€‚
 
 Success is actually simple: when you are about to fail to hold, you just need to hang on a bit longer. 
 
-³É¹¦ÆäÊµºÜ¼òµ¥£¬¾ÍÊÇµ±Äã¼á³Ö²»×¡µÄÊ±ºò£¬ÔÙ¼á³ÖÒ»ÏÂ¡£
+æˆåŠŸå…¶å®å¾ˆç®€å•ï¼Œå°±æ˜¯å½“ä½ åšæŒä¸ä½çš„æ—¶å€™ï¼Œå†åšæŒä¸€ä¸‹ã€‚
 
 We have so many needs in our life, but ultimately, all we need is to be needed. 
 
-ÉúÃüÖĞ£¬ÎÒÃÇ×ÜÊÇÓĞÄÇÃ´¶àµÄ¿ÊÇóºÍĞèÒª¡£È»¶ø¹é¸ù½áµ×£¬ÎÒÃÇ×î¿ÊÇóµÄ£¬²»¹ıÊÇ±»ÈËĞèÒª¡£
+ç”Ÿå‘½ä¸­ï¼Œæˆ‘ä»¬æ€»æ˜¯æœ‰é‚£ä¹ˆå¤šçš„æ¸´æ±‚å’Œéœ€è¦ã€‚ç„¶è€Œå½’æ ¹ç»“åº•ï¼Œæˆ‘ä»¬æœ€æ¸´æ±‚çš„ï¼Œä¸è¿‡æ˜¯è¢«äººéœ€è¦ã€‚
 
 Give everything a shot. You never know what is going to change your life. 
 
-ÈÎºÎÊÂÇé¶¼Ó¦¸ÃÈ¥³¢ÊÔÒ»ÏÂ£¬ÒòÎªÄãÎŞ·¨ÖªµÀÊ²Ã´ÑùµÄÊÂ½«»á¸Ä±äÄãµÄÒ»Éú¡£
+ä»»ä½•äº‹æƒ…éƒ½åº”è¯¥å»å°è¯•ä¸€ä¸‹ï¼Œå› ä¸ºä½ æ— æ³•çŸ¥é“ä»€ä¹ˆæ ·çš„äº‹å°†ä¼šæ”¹å˜ä½ çš„ä¸€ç”Ÿã€‚
 
 If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
 
-Èç¹ûÄãÒª»îµ½Ò»°ÙËê£¬ÄÇÃ´ÎÒÖ»Òª»îµ½Ò»°ÙËê²îÒ»Ìì£¬ÕâÑùÎÒ¾Í²»ÓÃ¶È¹ıÃ»ÓĞÄãÅã°éµÄ·Ö·ÖÃëÃë¡£¡ª¡ª¡¶Ğ¡ĞÜÎ¬Äá¡·
+å¦‚æœä½ è¦æ´»åˆ°ä¸€ç™¾å²ï¼Œé‚£ä¹ˆæˆ‘åªè¦æ´»åˆ°ä¸€ç™¾å²å·®ä¸€å¤©ï¼Œè¿™æ ·æˆ‘å°±ä¸ç”¨åº¦è¿‡æ²¡æœ‰ä½ é™ªä¼´çš„åˆ†åˆ†ç§’ç§’ã€‚â€”â€”ã€Šå°ç†Šç»´å°¼ã€‹
 
 Do not rack your brains on scheming to get friendship, otherwise, it becomes sort of business trade. 
 
-ÓÑÇé²»¿É·ÑÁ¦¾­Óª£¬Òª²»È»¾Í³ÉÁËÉúÒâ¡£
+å‹æƒ…ä¸å¯è´¹åŠ›ç»è¥ï¼Œè¦ä¸ç„¶å°±æˆäº†ç”Ÿæ„ã€‚
 
 Persistence is the common trait of anyone who has had a significant impact on the world.
 
-¼á³ÖÊÇÊÀ½çÉÏÃ¿¸öÓĞËù½¨Ê÷µÄÈË¹²ÓĞµÄÆ·ÖÊ¡£
+åšæŒæ˜¯ä¸–ç•Œä¸Šæ¯ä¸ªæœ‰æ‰€å»ºæ ‘çš„äººå…±æœ‰çš„å“è´¨ã€‚
 
 Whenever you have an aim you must sacrifice something of freedom to attain it.
 
-²»ÂÛÊ²Ã´Ê±ºò£¬Ö»ÒªÄãÓĞÒ»¸öÄ¿±ê£¬¾ÍµÃÎşÉüÒ»¶¨µÄ×ÔÓÉÈ¥ÊµÏÖËü¡£
+ä¸è®ºä»€ä¹ˆæ—¶å€™ï¼Œåªè¦ä½ æœ‰ä¸€ä¸ªç›®æ ‡ï¼Œå°±å¾—ç‰ºç‰²ä¸€å®šçš„è‡ªç”±å»å®ç°å®ƒã€‚
 
 Even if you get no applause, you should accept a curtain call gracefully and appreciate your own efforts. 
 
-¼´Ê¹Ã»ÓĞÈËÎªÄã¹ÄÕÆ£¬Ò²ÒªÓÅÑÅµÄĞ»Ä»£¬¸ĞĞ»×Ô¼ºµÄÈÏÕæ¸¶³ö¡£
+å³ä½¿æ²¡æœ‰äººä¸ºä½ é¼“æŒï¼Œä¹Ÿè¦ä¼˜é›…çš„è°¢å¹•ï¼Œæ„Ÿè°¢è‡ªå·±çš„è®¤çœŸä»˜å‡ºã€‚
 
 Whenever something negative happens to you, there is a deep lesson concealed within it.
 
-ÈÎºÎÄæ¾³¶¼°µ²Ø×ÅÈÃÄã³É³¤µÄ¾­Ñé½ÌÑµ¡£¡ªEckhart Tolle
+ä»»ä½•é€†å¢ƒéƒ½æš—è—ç€è®©ä½ æˆé•¿çš„ç»éªŒæ•™è®­ã€‚â€”Eckhart Tolle
 
 If a jewel falls into the mire, it remains as precious as before; and though dust should ascend to heaven, its former worthlessness will not be altered.
 
-±¦Ê¯¼´Ê¹ÂäÔÚÄàÌ¶Àï£¬ÈÔÊÇÒ»Ñù¿É¹ó£»³¾ÍÁ×İÈ»Ñïµ½ÌìÉÏ£¬»¹ÊÇÃ»ÓĞ¼ÛÖµ¡£
+å®çŸ³å³ä½¿è½åœ¨æ³¥æ½­é‡Œï¼Œä»æ˜¯ä¸€æ ·å¯è´µï¼›å°˜åœŸçºµç„¶æ‰¬åˆ°å¤©ä¸Šï¼Œè¿˜æ˜¯æ²¡æœ‰ä»·å€¼ã€‚
 
 The pessimist complains about the wind; the optimist expects it to change; and the realist adjusts the sails.
 
-±¯¹ÛÕßÂñÔ¹¹Î·ç£»ÀÖ¹ÛÕß¾²ºî·ç±ä£»ÏÖÊµÕßµ÷Õû·ç·«¡£
+æ‚²è§‚è€…åŸ‹æ€¨åˆ®é£ï¼›ä¹è§‚è€…é™ä¾¯é£å˜ï¼›ç°å®è€…è°ƒæ•´é£å¸†ã€‚
 
 In difficult situations when hope seems feeble, the boldest plans are safest.
 
-ÏİÓÚÏ£ÍûÃìÃ£µÄÀ§¾³Ê±£¬×î´óµ¨µÄ¼Æ»®·´¶ø×î¿É¿¿¡£
+é™·äºå¸Œæœ›æ¸ºèŒ«çš„å›°å¢ƒæ—¶ï¼Œæœ€å¤§èƒ†çš„è®¡åˆ’åè€Œæœ€å¯é ã€‚
 
 The more time and energy you spend acquiring pertinent knowledge, the more control you have over your life. 
 
-Äã»¨¸ü¶àµÄÊ±¼äÑ§Ï°Ïà¹ØÖªÊ¶£¬¾Í¸üÄÜÕÆ¿Ø×Ô¼ºÈËÉú¡£
+ä½ èŠ±æ›´å¤šçš„æ—¶é—´å­¦ä¹ ç›¸å…³çŸ¥è¯†ï¼Œå°±æ›´èƒ½æŒæ§è‡ªå·±äººç”Ÿã€‚
 
 If a man doesn't have a strong will to get the final victory, he will never succeed in his life.
 
-Ò»¸öÈËÈç¹ûÃ»ÓĞÈ¥Ó®µÃÊ¤ÀûµÄºãĞÄ£¬Ëû±Ø½«²»»áÔÚËûµÄÈËÉúµÀÂ·ÉÏÈ¡µÃ³É¹¦¡£
+ä¸€ä¸ªäººå¦‚æœæ²¡æœ‰å»èµ¢å¾—èƒœåˆ©çš„æ’å¿ƒï¼Œä»–å¿…å°†ä¸ä¼šåœ¨ä»–çš„äººç”Ÿé“è·¯ä¸Šå–å¾—æˆåŠŸã€‚
 
 Be just to all, but trust not all.
 
 
-Òª¹«Õı¶Ô´ıËùÓĞµÄÈË£¬µ«²»ÒªÇáĞÅËùÓĞµÄÈË¡£
+è¦å…¬æ­£å¯¹å¾…æ‰€æœ‰çš„äººï¼Œä½†ä¸è¦è½»ä¿¡æ‰€æœ‰çš„äººã€‚
 
 Do not, for one repulse, give up the purpose that you resolved to effect.
 
 
-²»ÒªÖ»ÒòÒ»´ÎÊ§°Ü£¬¾Í·ÅÆúÄãÔ­À´¾öĞÄÏë´ïµ½µÄÄ¿µÄ¡£
+ä¸è¦åªå› ä¸€æ¬¡å¤±è´¥ï¼Œå°±æ”¾å¼ƒä½ åŸæ¥å†³å¿ƒæƒ³è¾¾åˆ°çš„ç›®çš„ã€‚
 
 The years shall run like rabbits, for in my arms I hold the flower of the ages, and the first love of the world.
 
 
-Ê±¹âÓÌÈçÒ°ÍÃ°ãÏòÇ°·É±¼£¬µ«ÎÒµÄÊÖ±Û¼ä»¹±§×Å¹ÅÀÏµÄÏÊ»¨¡ª¡ª»¹ÓĞ¶ÔÕâÊÀ½ç×î³õµÄ°®¡£
+æ—¶å…‰çŠ¹å¦‚é‡å…”èˆ¬å‘å‰é£å¥”ï¼Œä½†æˆ‘çš„æ‰‹è‡‚é—´è¿˜æŠ±ç€å¤è€çš„é²œèŠ±â€”â€”è¿˜æœ‰å¯¹è¿™ä¸–ç•Œæœ€åˆçš„çˆ±ã€‚
 
 Whoever saves one life, saves the world entire.
 
 
-Íì¾ÈÁËÒ»ÌõÉúÃü£¬¾ÍµÈÓÚÍì¾ÈÁËÕû¸öÊÀ½ç¡£
+æŒ½æ•‘äº†ä¸€æ¡ç”Ÿå‘½ï¼Œå°±ç­‰äºæŒ½æ•‘äº†æ•´ä¸ªä¸–ç•Œã€‚
 
 You never know what hand you're going to get dealt next. You learn to take life as it comes at you.
 
 
-Äã²»»áÖªµÀÏÂÒ»ÊÖÅÆ»áÊÇÊ²Ã´£¬ÒªÑ§»á½ÓÊÜÉú»î¡£
+ä½ ä¸ä¼šçŸ¥é“ä¸‹ä¸€æ‰‹ç‰Œä¼šæ˜¯ä»€ä¹ˆï¼Œè¦å­¦ä¼šæ¥å—ç”Ÿæ´»ã€‚
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ÏñÎÒÕâÖÖÈçÀÇËÆ»¢µÄÈË£¬ÈôÊÇ×ªÉí£¬²»ÊÇ±¨¶÷¾ÍÊÇ±¨³ğ¡£
-
-
-
-
-
-
-
-
-Óöµ½ÎÊÌâ×î´ó
-Ê²Ã´Ã÷Ã÷¿ÉÒÔ¸Ä±ä£¬ÔõÃ´¸Ä±ä£¬ÏÖÔÚÔõÃ´ÁË
-Ìıµ½ÁËÊ²Ã´
-ÏÖÔÚÓĞÊ²Ã´¸Ğ¾õ²»Êæ·şµÄ£¬ÄÇĞ©»á¸Ğ¾õºÜ²»ºÃ
-ÔõÑù»á¸üºÃ£¬ÒÔºóÒªÔõÑù
-Óöµ½ÎÊÌâÔõÃ´Ãæ¶Ô
-Ëµ»°·½Ê½
