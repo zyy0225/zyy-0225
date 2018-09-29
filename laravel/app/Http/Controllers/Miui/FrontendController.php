@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\RedirectResponse;
 use App\Http\Controllers\Miui\Rouote;
 
+//小米商城模板
 class FrontendController extends Controller
 {
     /**
