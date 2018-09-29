@@ -74,7 +74,5 @@ class FrontendController extends Controller
         return view('miui.self_info');
     }
 
-
-
-
+    
 }
