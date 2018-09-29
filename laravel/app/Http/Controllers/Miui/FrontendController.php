@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\RedirectResponse;
 use App\Http\Controllers\Miui\Rouote;
 
+//小米商城前台模板
 class FrontendController extends Controller
 {
     /**
@@ -73,7 +74,5 @@ class FrontendController extends Controller
         return view('miui.self_info');
     }
 
-
-
-
+    
 }
