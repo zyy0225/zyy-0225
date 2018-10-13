@@ -4,76 +4,39 @@ namespace App\Http\Controllers\Miui;
 
 use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\Controller;
-use Illuminate\Http\RedirectResponse;
-use App\Http\Controllers\Miui\Rouote;
+use App\Services\GoodsService;
+use App\Services\CategoryService;
 
-//小米商城前台模板
+/**
+*   小米商城首页模板
+*/
 class FrontendController extends Controller
 {
     /**
-    *商城首页
+    *   商城首页
     */
+
+    /**
+	*   定义模型变量
+	*/ 
+    public $goodsModel;
+    public $categoryModel;
+
+    /**
+	*   构造函数
+	*/ 
+	public function __construct()
+	{
+        $this->goodsModel = new GoodsService;
+        $this->categoryModel = new CategoryService;
+    }
+
     public function index()
     {
-        return view('miui.index');
+        $goodsInfo = $this->goodsModel->goodsInfo();
+        $categoryInfo = $this->categoryModel->categoryInfo();
+        return view('frontend.index',['model'=>$goodsInfo,'cate'=>$categoryInfo]);
     }
-
-    /**
-    *列表页 
-    */
-    public function liebiao()
-    {
-        return view('miui.liebiao');
-    }
-
-    /**
-    *注册页面    
-    */
-    public function register()
-    {
-        return view('miui.register');
-    }
-
-    /**
-    *登录页面    
-    */
-    public function login()
-    {
-        return view('miui.login');
-    }
-
-    /**
-    *购物车
-    */
-    public function gouwuche()
-    {
-        return view('miui.gouwuche');
-    }
-
-    /**
-    *订单中心
-    */
-    public function dingdanzhongxin()
-    {
-        return view('miui.dingdanzhongxin');
-    }
-
-    /**
-    *详情页面
-    */
-    public function xiangqing()
-    {
-        return view('miui.xiangqing');
-    }
-
-    /**
-    *个人资料
-    */
-    public function self_info()
-    {
-        return view('miui.self_info');
-    }
-
 
 
 

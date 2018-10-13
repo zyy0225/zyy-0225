@@ -1,5 +1,5 @@
 
-@extends('miui/common.common')
+@extends('/common.common')
 	@section('body')
 	
 	<!-- xiangqing -->
@@ -26,7 +26,7 @@
 	</div>
 	
 	<div class="jieshao mt20 w">
-		<div class="left fl"><img src="./image/liebiao_xiaomi6.jpg"></div>
+		<div class="left fl"><img src="/miui/image/liebiao_xiaomi6.jpg"></div>
 		<div class="right fr">
 			<div class="h3 ml20 mt20">小米6</div>
 			<div class="jianjie mr40 ml20 mt10">变焦双摄，4 轴防抖 / 骁龙835 旗舰处理器，6GB 大内存，最大可选128GB 闪存 / 5.15" 护眼屏 / 四曲面玻璃/陶瓷机身</div>

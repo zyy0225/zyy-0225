@@ -30,6 +30,7 @@ return [
 
     'connections' => [
 
+        //同步队列
         'sync' => [
             'driver' => 'sync',
         ],

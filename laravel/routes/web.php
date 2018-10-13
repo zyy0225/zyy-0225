@@ -15,15 +15,22 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('admin/index','Admin\IndexController@index');
+Route::any('admin/index','Admin\IndexController@index');
+Route::get('mail/send','MailController@send');
 
 
-Route::get('miui/register', 'Miui\FrontendController@register');
-Route::get('miui/login', 'Miui\FrontendController@login');
-Route::get('miui/index','Miui\FrontendController@index');
-Route::get('miui/liebiao', 'Miui\FrontendController@liebiao');
-Route::get('miui/gouwuche', 'Miui\FrontendController@gouwuche');
-Route::get('miui/dingdanzhongxin', 'Miui\FrontendController@dingdanzhongxin');
-Route::get('miui/xiangqing', 'Miui\FrontendController@xiangqing');
-Route::get('miui/self_info', 'Miui\FrontendController@self_info');
+
+
+Route::any('frontend/index','Miui\FrontendController@index');
+Route::get('user/login', 'Miui\UserController@login');
+Route::post('user/loginDo', 'Miui\UserController@loginDo');
+Route::get('user/loginOut', 'Miui\UserController@loginOut');
+Route::get('user/register', 'Miui\UserController@register');
+Route::post('user/registerDo', 'Miui\UserController@registerDo');
+Route::any('user/selfInfo', 'Miui\UserController@selfInfo');
+Route::any('cart/gouwuche', 'Miui\CartController@gouwuche');
+Route::any('order/dingdanzhongxin', 'Miui\OrderController@dingdanzhongxin');
+Route::any('goods/liebiao', 'Miui\GoodsController@liebiao');
+Route::any('goods/xiangqing', 'Miui\GoodsController@xiangqing');
+
 
