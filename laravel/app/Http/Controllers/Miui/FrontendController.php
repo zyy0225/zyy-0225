@@ -38,6 +38,6 @@ class FrontendController extends Controller
         return view('frontend.index',['model'=>$goodsInfo,'cate'=>$categoryInfo]);
     }
 
-
-
 }
+    
+
