@@ -7,7 +7,7 @@
 		<meta charset="UTF-8">
         <meta name="author" content="order by dede58.com"/>
 		<title>我的购物车-小米商城</title>
-		<link rel="stylesheet" type="text/css" href="././css/style.css">
+		<link rel="stylesheet" type="text/css" href="{{ URL::asset('miui/css/style.css') }}">
 	</head>
 	<body>
 	<!-- start header -->
@@ -15,15 +15,15 @@
 
 <!-- start banner_x -->
 		<div class="banner_x center">
-			<a href="index" target="_blank"><div class="logo fl"></div></a>
+			<a href="/frontend/index" target="_blank"><div class="logo fl"></div></a>
 			
 			<div class="wdgwc fl ml40">我的购物车</div>
 			<div class="wxts fl ml20">温馨提示：产品是否购买成功，以最终下单为准哦，请尽快结算</div>
 			<div class="dlzc fr">
 				<ul>
-					<li><a href="login" target="_blank">登录</a></li>
+					<li><a href="/user/login" target="_blank">登录</a></li>
 					<li>|</li>
-					<li><a href="register" target="_blank">注册</a></li>	
+					<li><a href="/user/register" target="_blank">注册</a></li>	
 				</ul>
 				
 			</div>
@@ -47,7 +47,7 @@
 					<div class="sub_content fl ">
 						<input type="checkbox" value="quanxuan" class="quanxuan" />
 					</div>
-					<div class="sub_content fl"><img src="./image/gwc_xiaomi6.jpg"></div>
+					<div class="sub_content fl"><img src="/miui/image/gwc_xiaomi6.jpg"></div>
 					<div class="sub_content fl ft20">小米6全网通6GB内存+64GB 亮黑色</div>
 					<div class="sub_content fl ">2499元</div>
 					<div class="sub_content fl">
@@ -61,7 +61,7 @@
 					<div class="sub_content fl ">
 						<input type="checkbox" value="quanxuan" class="quanxuan" />
 					</div>
-					<div class="sub_content fl"><img src="./image/gwc_xiaomi6.jpg"></div>
+					<div class="sub_content fl"><img src="/miui/image/gwc_xiaomi6.jpg"></div>
 					<div class="sub_content fl ft20">小米6全网通6GB内存+64GB 亮黑色</div>
 					<div class="sub_content fl ">2499元</div>
 					<div class="sub_content fl">
@@ -75,7 +75,7 @@
 			<div class="jiesuandan mt20 center">
 				<div class="tishi fl ml20">
 					<ul>
-						<li><a href="liebiao">继续购物</a></li>
+						<li><a href="/goods/liebiao">继续购物</a></li>
 						<li>|</li>
 						<li>共<span>2</span>件商品，已选择<span>1</span>件</li>
 						<div class="clear"></div>
@@ -92,4 +92,4 @@
 		</div>
 @endsection
   
-@extends('miui/common.footer')
+@extends('/common.footer')

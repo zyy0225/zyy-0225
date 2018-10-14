@@ -1,8 +1,8 @@
 
-@extends('miui/common.common')
+@extends('/common.common')
 	@section('body')
 
-<!-- self_info -->
+<!-- selfInfo -->
 	<div class="grzxbj">
 		<div class="selfinfo center">
 		<div class="lfnav fl">
@@ -18,7 +18,7 @@
 			<div class="ddzx">个人中心</div>
 			<div class="subddzx">
 				<ul>
-					<li><a href="self_info">我的个人中心</a></li>
+					<li><a href="/user/selfInfo">我的个人中心</a></li>
 					<li><a href="">消息通知</a></li>
 					<li><a href="">优惠券</a></li>
 					<li><a href="">收货地址</a></li>
@@ -28,7 +28,7 @@
 		<div class="rtcont fr">
 			<div class="ddzxbt">交易订单</div>
 			<div class="ddxq">
-				<div class="ddspt fl"><img src="./image/gwc_xiaomi6.jpg" alt=""></div>
+				<div class="ddspt fl"><img src="/miui/image/gwc_xiaomi6.jpg" alt=""></div>
 				<div class="ddbh fl">订单号:1705205643098724</div>
 				<div class="ztxx fr">
 					<ul>
@@ -42,7 +42,7 @@
 				<div class="clear"></div>
 			</div>
 			<div class="ddxq">
-				<div class="ddspt fl"><img src="./image/liebiao_hongmin4_dd.jpg" alt=""></div>
+				<div class="ddspt fl"><img src="/miui/image/liebiao_hongmin4_dd.jpg" alt=""></div>
 				<div class="ddbh fl">订单号:170526435444865</div>
 				<div class="ztxx fr">
 					<ul>
@@ -59,6 +59,6 @@
 		<div class="clear"></div>
 		</div>
 	</div>
-<!-- self_info -->
+<!-- selfInfo -->
 		
 	@endsection
