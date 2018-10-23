@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Controllers\Admin;
+namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
@@ -20,7 +20,7 @@ class MessageController extends Controller
         } else {
             $data = [
                 'message' => '请勿非法访问！',
-                'url' => 'goods/index',
+                'url' => 'frontend/index',
                 'jumpTime' => 3,
                 'status' => false
             ];

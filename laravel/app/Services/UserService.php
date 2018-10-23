@@ -27,17 +27,17 @@ class UserService
 	/**
 	*	判断用户登录方式
 	*/
-	public function Userlogin($input)
+	public function userLogin($input)
 	{
 		$where = '';
 		
 		//判断用户是手机号登录还是邮箱登录
 		$where = ['mobile'=>$input['account'],'password'=>md5($input['password'])];
-		$data = $this->userModel->WhereFirst($where);
+		$data = $this->userModel->whereFirst($where);
 
 		if(empty($data)){
 			$where = ['email'=>$input['account'],'password'=>md5($input['password'])];
-			$data = $this->userModel->WhereFirst($where);
+			$data = $this->userModel->whereFirst($where);
 		}
 		
 		if($data){
@@ -53,11 +53,10 @@ class UserService
 			
 			if($result){
 				return $result;
-			}else{
-				return false;
 			}
 			
 		}
+		return false;
 	}
 
 	/**
@@ -69,19 +68,19 @@ class UserService
 
 		//判断用户名，手机号，邮箱是否唯一
 		$where = ['username'=>$input['username']];
-		$data = $this->userModel->WhereFirst($where);
+		$data = $this->userModel->whereFirst($where);
 		if($data){
 			return $result = 'username';
 		}
 
 		$where = ['mobile'=>$input['mobile']];
-		$data = $this->userModel->WhereFirst($where);
+		$data = $this->userModel->whereFirst($where);
 		if($data){
 			return $result = 'mobile';
 		}
 
 		$where = ['email'=>$input['email']];
-		$data = $this->userModel->WhereFirst($where);
+		$data = $this->userModel->whereFirst($where);
 		
 		if($data){
 			return $result = 'email';
@@ -104,16 +103,17 @@ class UserService
 		if($data){
 			Session::put('name',$input);
 
-			$this->UserSendEmail($input);
+			$this->userSendEmail($input);
 
 			return $data;
 		}
+		return false;
 	}
 
 	/**
 	*	队列发送邮件
 	*/
-	public function UserSendEmail($data)
+	public function userSendEmail($data)
 	{
 		return dispatch(new SendEmail($data));
 	}

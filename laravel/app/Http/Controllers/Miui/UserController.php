@@ -52,12 +52,12 @@ class UserController extends Controller
             ]);
 
             //调用service层进行判断
-            $result = $this->userService->Userlogin($input);
+            $result = $this->userService->userLogin($input);
             if($result){
-				return redirect('frontend/index')->with('message','登录成功');
+                return redirect('/message')->with(['message'=>'登录成功！','url'=>'frontend/index','jumpTime'=>3,'status'=>true]);
 			}
         }
-        return view('user.login')->with('title','用户名或密码错误');
+        return redirect('/message')->with(['message'=>'用户名或密码错误！','url'=>'user/login','jumpTime'=>3,'status'=>true]);
     }
 
     /**
@@ -107,16 +107,16 @@ class UserController extends Controller
                 }else if($result =='email'){
                     $message = '邮箱不能重复';
                 }
-                return redirect('user/register')->with('message',$message);
+                return redirect('/message')->with(['message'=>$message,'url'=>'user/register','jumpTime'=>3,'status'=>true]);
             }
 
             //调用service层进行用户信息入库
             $data = $this->userService->userRegister($input);
             if($data){
-				return redirect('frontend/index')->with('message','注册成功！');
+                return redirect('/message')->with(['message'=>'注册成功！','url'=>'frontend/index','jumpTime'=>3,'status'=>true]);
             }     
         }
-        return view('user.register')->with('title','注册失败'); 
+        return redirect('/message')->with(['message'=>'注册失败！','url'=>'frontend/index','jumpTime'=>3,'status'=>true]);
     }
     
     /**
