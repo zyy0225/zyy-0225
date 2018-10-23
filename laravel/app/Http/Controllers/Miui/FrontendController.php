@@ -48,7 +48,7 @@ class FrontendController extends Controller
         if($input){
             $goodsInfo = $this->goodsService->goodsParent($input);
             $categoryInfo = $this->categoryService->categoryInfo();
-            var_dump($goodsInfo);die;
+            // var_dump($goodsInfo);die;
             return view('frontend.index',['model'=>$goodsInfo,'cate'=>$categoryInfo]);
         }
     }
