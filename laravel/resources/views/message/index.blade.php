@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>信息提示</title>
-	<link rel="stylesheet" href="{{URL::asset('css/bootstrap.css')}}">
+	<link rel="stylesheet" href="{{URL::asset('bootstrap-3.3.7-dist/css/bootstrap.css')}}">
 	<script type="text/javascript" src="{{URL::asset('js/jquery-1.7.2.min.js')}}"></script>
 
 </head>

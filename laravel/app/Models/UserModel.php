@@ -17,7 +17,9 @@ class UserModel extends Model
 	public $table = 'miui_user';
 	public $primarykey = 'u_id';
 
-	//查询全部数据
+	/**
+	*	查询全部数据
+	*/
     public function getAll()
     {
 		$data = Db::table($this->table)->get();
@@ -27,8 +29,19 @@ class UserModel extends Model
 		return $data;
 	}
 
-	//根据where条件查询数据
-    public function WhereAll($where)
+	/**
+	*	分页查询全部数据
+	*/
+    public function getPageAll()
+    {
+		$data = Db::table($this->table)->paginate(5);
+		return $data;
+	}
+
+	/**
+	*	根据where条件查询数据
+	*/
+    public function whereAll($where)
     {
 		$data = Db::table($this->table)->where($where)->get();
 		if($data){
@@ -37,8 +50,22 @@ class UserModel extends Model
 		return $data;
 	}
 
-	//根据where条件查询单条数据
-    public function WhereFirst($where)
+	/**
+	*	根据whereIn条件查询数据
+	*/
+    public function whereIn($id,$where)
+    {
+		$data = Db::table($this->table)->whereIn($id,$where)->get();
+		if($data){
+			$data = json_decode($data,true);
+		}
+		return $data;
+	}
+
+	/**
+	*	根据where条件查询单条数据
+	*/
+    public function whereFirst($where)
     {
 		$data = Db::table($this->table)->where($where)->first();
 		if($data){
@@ -47,13 +74,17 @@ class UserModel extends Model
 		return $data;
 	}
 
-	//添加数据
+	/**
+	*	添加数据
+	*/
     public function userInsert($input)
     {
 		return $data = Db::table($this->table)->insert($input);
 	}
 
-	//修改数据
+	/**
+	*	修改数据
+	*/
     public function getUpdate($where,$data)
     {
 		return $result = Db::table($this->table)->where($where)->update($data);
@@ -68,5 +99,3 @@ class UserModel extends Model
 
 
 }
-
-

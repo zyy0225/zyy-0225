@@ -8,7 +8,7 @@
 				<ul>
 					@foreach($cate as $k => $v)
 						<li>
-							<a href="">{{$v['cat_name']}}</a>
+							<a href="javascript:void(0)" class="cat_name" value="{{$v['cat_id']}}">{{$v['cat_name']}}</a>
 							<div class="pop">
 
 								<div class="left fl">
@@ -71,7 +71,30 @@
 				</ul>
 			</div>
 		</div>
-		<script type="text/javascript" src="/public/js/jquery.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.min.js"></script>
+		<script>
+			$(function(){
+				$(".cat_name").on('click',function(){
+					var cat_id = $(this).attr('value');
+					console.log(cat_id);
+					$.ajax({
+						type: "POST",
+						url: "/frontend/index",
+						data: {'_token':'{{csrf_token()}}',cat_id:cat_id},
+						success: function(msg){
+							alert( "Data Saved: " + msg );
+						},
+						error:function(msg){
+							console.log(msg);
+						}
+					});
+											
+				});
+
+
+
+			});
+		</script>
 
 		<div class="sub_banner center">
 			<div class="sidebar fl">
