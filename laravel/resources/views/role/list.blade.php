@@ -33,7 +33,7 @@
           <tr>
             <td>{{$val->role_id}}</td>
             <td>{{$val->role_name}}</td>
-            <td><a href=""  class='label label-warning'>查看权限</a> | <a href="/role/update?role_id={{$val->role_id}}" class='label label-primary'>修改</a> 
+            <td><a href="/role/update?role_id={{$val->role_id}}" class='label label-primary'>修改</a> 
             | <a href="/role/delete?role_id={{$val->role_id}}" class='label label-danger'>删除</a>
             </td>
           </tr>
