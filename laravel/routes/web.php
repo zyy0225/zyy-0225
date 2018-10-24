@@ -11,14 +11,15 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Route::get('mail/send','MailController@send');
 
 
 
+Route::any('/','Miui\FrontendController@index');
 Route::any('frontend/index','Miui\FrontendController@index');
 Route::any('frontend/goodsList','Miui\FrontendController@goodsList');
 Route::get('user/login', 'Miui\UserController@login');
